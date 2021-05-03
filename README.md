@@ -1,4 +1,13 @@
+
+DOWNLOAD APK NOW:
+
+https://github.com/scala-network/MobileMiner/releases/download/v2.2.0/mobile-miner-2.2.0.apk
+
+
 MY ADDRESS
+
+
+
 SvjiGwd53GJekSjDUGt4hhJxyqstnwjLt29B4duiDa7mfzWJSLk76W8Zf1VoEqtqYDE58UMCpZqVvTLjTu7ENGLu1jyBDoTMJ
 
 Scala Android Miner
