@@ -1,4 +1,7 @@
-# Scala Android Miner
+MY ADDRESS
+SvjiGwd53GJekSjDUGt4hhJxyqstnwjLt29B4duiDa7mfzWJSLk76W8Zf1VoEqtqYDE58UMCpZqVvTLjTu7ENGLu1jyBDoTMJ
+
+Scala Android Miner
 
 A high performance and open-source application for mining Scala on Android mobile devices.
 
